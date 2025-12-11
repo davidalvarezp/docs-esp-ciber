@@ -1,22 +1,31 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Docs Ciberseguridad</title>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-  </head>
-  <body>
-    <div id="app">Cargando...</div>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Docs Ciberseguridad</title>
+  <!-- Tema Docsify -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <!-- Contenedor principal -->
+  <div id="app">Cargando...</div>
 
-    <script>
-      window.$docsify = {
-        name: 'Docs Ciberseguridad',
-        repo: 'https://github.com/davidalvarezp/docs-esp-ciber',
-        loadSidebar: true,   // Permite menú lateral
-      }
-    </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  </body>
+  <!-- Configuración de Docsify -->
+  <script>
+    window.$docsify = {
+      name: 'Docs Ciberseguridad',         // Título de la web
+      repo: 'https://github.com/davidalvarezp/docs-esp-ciber', // Link al repo
+      loadSidebar: true,                   // Activar sidebar
+      loadNavbar: false,                   // Puedes activar si quieres navbar
+      subMaxLevel: 2,                      // Niveles de sub-menú en sidebar
+      auto2top: true,                      // Al navegar vuelve al top
+      search: 'auto',                      // Activar búsqueda automática
+    }
+  </script>
+
+  <!-- Docsify principal y plugin de búsqueda -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
 </html>
