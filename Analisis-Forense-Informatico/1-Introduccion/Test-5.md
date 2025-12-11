@@ -1,8 +1,8 @@
 1. El protocolo que se usa normalmente para volcar tráfico en Wireshark es:
-   - a) HTTP
-   - b) TCP/UDP
-   - c) CIFS
-   - d) NTP
+   -a) HTTP
+   -b) TCP/UDP
+   -c) CIFS
+   -d) NTP
 
 2. En un análisis de malware, *strings* permite:
    a) Ver claves SIM
