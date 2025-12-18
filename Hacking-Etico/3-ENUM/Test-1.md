@@ -119,3 +119,28 @@
     b) Nbtscan  
     c) Nmap  
     d) Netcat  
+
+---
+
+### **Soluciones**
+
+1. **b) Nmap**  
+2. **b) TCP SYN**  
+3. **c) traceroute**  
+4. **b) Ping sweep**  
+5. **a) Netdiscover**  
+6. **c) Filtrado**  
+7. **b) -O**  
+8. **b) Netcat**  
+9. **b) ftp-anon**  
+10. **b) WhatWeb**  
+11. **b) Fuzzing web**  
+12. **c) Wfuzz**  
+13. **b) smb-enum-shares**  
+14. **b) Nikto**  
+15. **b) Nuclei**  
+16. **b) OpenVAS**  
+17. **c) SMB**  
+18. **b) enum4linux**  
+19. **c) XMAS scan**  
+20. **a) Smbmap**
