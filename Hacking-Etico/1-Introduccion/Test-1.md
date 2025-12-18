@@ -1,5 +1,7 @@
 ### **Examen Unidad 1: Introducción al hacking ético**
 
+---
+
 1. **¿Qué principio de seguridad garantiza que la información solo sea accesible por personas autorizadas?**  
    a) Integridad  
    b) Disponibilidad  
@@ -119,3 +121,28 @@
     b) Sombrero blanco  
     c) Hacktivista  
     d) State-sponsored  
+
+---
+
+### **Soluciones:**
+
+1. **c) Confidencialidad**  
+2. **c) Sombrero blanco**  
+3. **b) Artículo 197bis**  
+4. **c) Ransomware**  
+5. **d) Script kiddie**  
+6. **b) DDoS**  
+7. **c) Phishing**  
+8. **c) Caja negra**  
+9. **b) Enumeración**  
+10. **c) PTES**  
+11. **b) Red Team**  
+12. **c) Kali Linux**  
+13. **b) Meltdown**  
+14. **a) HackTheBox**  
+15. **c) Smishing**  
+16. **b) No repudio**  
+17. **b) Gusano**  
+18. **c) Caja gris**  
+19. **b) Have I Been Pwned**  
+20. **c) Hacktivista**
