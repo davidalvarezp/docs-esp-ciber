@@ -119,3 +119,28 @@
     b) Steganografía  
     c) Depix  
     d) Reverse search  
+
+---
+
+### **Soluciones**
+
+1. **c) OSINT**  
+2. **b) Shodan**  
+3. **c) TOR**  
+4. **c) robots.txt**  
+5. **b) wget**  
+6. **b) Exiftool**  
+7. **b) Whois**  
+8. **c) DNS bruteforcing**  
+9. **b) Sherlock**  
+10. **a) AXFR**  
+11. **b) Maltego**  
+12. **c) grep**  
+13. **a) dnsrecon**  
+14. **c) A**  
+15. **b) Tesseract**  
+16. **b) Wayback Machine**  
+17. **d) Leak checking**  
+18. **c) dig**  
+19. **b) OSRFramework**  
+20. **c) Depix**
