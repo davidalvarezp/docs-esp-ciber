@@ -118,4 +118,33 @@
     a) TCP  
     b) UDP  
     c) FTP  
-    d) HTTPS  
+    d) HTTPS
+    
+---
+
+### **Soluciones**
+
+1. c) 7  
+2. b) Capa de Presentación  
+3. d) Capa de Acceso a la Red  
+4. b) DNS  
+5. b) TCP  
+6. b) Número de Acuse de Recibo (ACK)  
+7. b) Switch  
+8. a) 0-1023  
+9. b) DHCPv4  
+10. b) Tipo 8 – Solicitud de eco  
+11. b) Segmentación  
+12. b) UDP  
+13. a) TTL (Time To Live)  
+14. b) Tamaño de ventana  
+15. c) OSPF  
+16. a) Sincronización para iniciar una conexión  
+17. b) Capa de Red  
+18. c) ARP  
+19. c) Paquete  
+20. b) UDP  
+
+---
+
+¿Necesitas también una versión en formato imprimible o con explicaciones de cada respuesta?
