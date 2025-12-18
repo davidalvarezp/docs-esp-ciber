@@ -144,7 +144,3 @@
 18. c) ARP  
 19. c) Paquete  
 20. b) UDP  
-
----
-
-¿Necesitas también una versión en formato imprimible o con explicaciones de cada respuesta?
