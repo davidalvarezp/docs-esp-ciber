@@ -1,0 +1,16 @@
+Git Merge:
+
+Comandos:
+  147  git add .
+  148  git commit -m "C0"
+  149  git checkout -b test
+  150  git add .
+  151  git commit -m "C1"
+  152  git log --oneline --decorate --all
+  153  git checkout master 
+  154  git merge test 
+  155  git log --oneline --decorate --all
+  156  git add .
+  157  git commit -m "master & test"
+  158  git log --oneline --decorate --graph --all
+  
