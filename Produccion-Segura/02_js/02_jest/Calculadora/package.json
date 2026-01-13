@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-jest",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage" 
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
