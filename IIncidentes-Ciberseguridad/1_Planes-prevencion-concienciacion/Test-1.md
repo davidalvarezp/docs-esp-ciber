@@ -110,7 +110,7 @@ d) Hash
 
 ---
 
-# Claves de respuesta – Test de Ciberseguridad
+# Claves de respuesta
 
 1. **c) Hacker**  
 2. **b) Kevin Mitnick**  
