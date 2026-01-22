@@ -107,3 +107,31 @@ d) Hash
 **19. Menciona dos medidas de protección recomendadas para dispositivos móviles corporativos (BYOD).**  
 
 **20. ¿Qué es una auditoría de seguridad y qué tipos se mencionan en el documento?**  
+
+---
+
+# Claves de respuesta – Test de Ciberseguridad
+
+1. **c) Hacker**  
+2. **b) Kevin Mitnick**  
+3. **b) APT**  
+4. **c) Ransomware**  
+5. **c) Ingeniería social**  
+6. **b) Spear-Phishing**  
+7. **b) DNS Hijacking**  
+8. **b) Botnet**  
+9. **b) Vulnerabilidad**  
+10. **b) Confidencialidad, integridad, disponibilidad**  
+11. **b) Zero Trust**  
+12. **b) Política de seguridad**  
+13. **b) RGPD**  
+14. **c) SSH**  
+15. **c) Logs**  
+16. **c) Firma electrónica**
+
+**Preguntas cortas**
+
+17. **Ejemplos válidos:** INCIBE, CN-CERT, OSI, AEPD, RedIRIS, CSIRT.  
+18. **Deep Web:** páginas no indexadas por buscadores tradicionales. **Darknet:** parte de la Deep Web de acceso restringido, a menudo con contenido ilegal, que requiere software específico (Tor, I2P, etc.).  
+19. **Ejemplos válidos:** cifrado de información confidencial, bloqueo automático con contraseña, no instalar apps con permisos de riesgo, uso de VPN para acceso corporativo, borrado remoto en caso de pérdida.  
+20. **Auditoría de seguridad:** análisis y evaluación de sistemas y procesos para identificar vulnerabilidades y cumplir normativas. **Tipos:** auditoría forense, legal, de red, perimetral, web, test de penetración.
