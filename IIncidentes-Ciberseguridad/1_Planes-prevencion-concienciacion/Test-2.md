@@ -111,7 +111,7 @@ d) Unidades didácticas
 ---
 
 
-# Claves de respuesta – Test de Ciberseguridad
+# Claves de respuesta
 
 1. **b) El hacker informa de fallos, el ciberdelincuente busca beneficio.**  
 2. **b) John Draper**  
